@@ -3,6 +3,8 @@
 ## Sujet à traiter
 Petit projet démontrant le fonctionnement d'une interface et d'une classe abstraite.
 
+[Vidéo démonstration](https://www.youtube.com/watch?v=0VUAtDiJ9pw)
+
 ### Prise en main du code
 
 1)  Récupérer le dépôt
