@@ -29,9 +29,9 @@ Petit projet démontrant le fonctionnement d'une interface et d'une classe abstr
 
 5) Voici une vidéo vous aidant à prendre en main le code
 
-6) Faites des modifications, regardez comment les différentes classes réagissent:
+6) Faites des modifications, regarder comment les différentes classes réagissent:
 
 * TODO
-    * [Progam.cs] Tentez d'instancier aussi bien une interface qu'une classe abstraite
-    * [IPerson.cs] Modifiez les signatures et observez les erreurs provoquées dans les classes
-    * [Vehicle.cs] Modifiez les signatures de la classe abstraite et observez les erreurs provoquées dans les classes
+    * [Progam.cs] Tenter d'instancier aussi bien une interface qu'une classe abstraite
+    * [IPerson.cs] Modifier les signatures et observer les erreurs provoquées dans les classes
+    * [Vehicle.cs] Modifier les signatures de la classe abstraite et observer les erreurs provoquées dans les classes
